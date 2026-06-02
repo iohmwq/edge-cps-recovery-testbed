@@ -1,0 +1,29 @@
+9:[10:15:20.033][I][main:120]: component=gateway event=send_success temp_c=26.93
+10:[10:15:30.063][I][main:120]: component=gateway event=send_success temp_c=26.93
+12:[10:15:40.037][I][main:120]: component=gateway event=send_success temp_c=26.95
+15:[10:15:50.035][I][main:120]: component=gateway event=send_success temp_c=26.95
+16:[10:16:00.066][I][main:120]: component=gateway event=send_success temp_c=26.95
+17:[10:16:10.091][I][main:120]: component=gateway event=send_success temp_c=26.95
+19:[10:16:17.910][I][main:291]: component=gateway event=forwarding_gate_closed action=send_blocked
+20:[10:16:20.042][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.98
+21:[10:16:30.058][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.98
+22:[10:16:40.044][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.98
+24:[10:16:50.053][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.95
+25:[10:17:00.069][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.95
+26:[10:17:10.049][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.95
+27:[10:17:20.052][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.95
+28:[10:17:30.067][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.95
+29:[10:17:40.051][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.95
+30:[10:17:50.056][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.95
+31:[10:17:51.687][I][main:296]: component=gateway event=forwarding_gate_open action=forwarding_enabled
+33:[10:18:00.085][I][main:120]: component=gateway event=send_success temp_c=26.95
+34:[10:18:10.108][I][main:120]: component=gateway event=send_success temp_c=26.95
+35:[10:18:20.071][I][main:120]: component=gateway event=send_success temp_c=26.95
+36:[10:18:30.087][I][main:120]: component=gateway event=send_success temp_c=26.95
+37:[10:18:40.109][I][main:120]: component=gateway event=send_success temp_c=26.95
+38:[10:18:50.071][I][main:120]: component=gateway event=send_success temp_c=26.95
+39:[10:19:00.091][I][main:120]: component=gateway event=send_success temp_c=26.95
+40:[10:19:10.113][I][main:120]: component=gateway event=send_success temp_c=26.95
+41:[10:19:20.082][I][main:120]: component=gateway event=send_success temp_c=26.95
+42:[10:19:30.102][I][main:120]: component=gateway event=send_success temp_c=26.95
+43:[10:19:40.119][I][main:120]: component=gateway event=send_success temp_c=26.95

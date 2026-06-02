@@ -1,0 +1,82 @@
+9:[13:01:11.681][I][main:120]: component=gateway event=send_success temp_c=26.57
+11:[13:01:21.719][I][main:120]: component=gateway event=send_success temp_c=26.58
+12:[13:01:31.679][I][main:120]: component=gateway event=send_success temp_c=26.58
+13:[13:01:41.695][I][main:120]: component=gateway event=send_success temp_c=26.58
+15:[13:01:51.721][I][main:120]: component=gateway event=send_success temp_c=26.59
+16:[13:02:01.679][I][main:120]: component=gateway event=send_success temp_c=26.59
+17:[13:02:11.700][I][main:120]: component=gateway event=send_success temp_c=26.59
+18:[13:02:21.724][I][main:120]: component=gateway event=send_success temp_c=26.59
+19:[13:02:31.679][I][main:120]: component=gateway event=send_success temp_c=26.59
+20:[13:02:39.969][I][main:291]: component=gateway event=forwarding_gate_closed action=send_blocked
+21:[13:02:41.691][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.59
+22:[13:02:51.676][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.59
+23:[13:03:01.679][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.59
+24:[13:03:11.694][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.59
+25:[13:03:21.678][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.59
+26:[13:03:31.988][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.59
+28:[13:03:41.698][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.58
+29:[13:03:51.684][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.58
+30:[13:04:01.686][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.58
+32:[13:04:11.701][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.57
+33:[13:04:21.687][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.57
+34:[13:04:31.688][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.57
+35:[13:04:41.705][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.57
+36:[13:04:51.688][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.57
+38:[13:05:01.691][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+39:[13:05:11.708][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+40:[13:05:22.463][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+41:[13:05:31.697][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+42:[13:05:41.712][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+43:[13:05:51.700][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+44:[13:06:01.699][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+45:[13:06:11.715][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+46:[13:06:21.700][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+47:[13:06:31.705][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+49:[13:06:41.718][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+50:[13:06:51.753][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+51:[13:07:01.709][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+52:[13:07:11.723][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+53:[13:07:21.757][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+54:[13:07:31.715][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+55:[13:07:41.725][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+56:[13:07:51.760][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+57:[13:08:01.732][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+58:[13:08:11.756][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+59:[13:08:21.764][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+61:[13:08:31.741][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+62:[13:08:41.757][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+63:[13:08:51.770][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+64:[13:09:01.742][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+65:[13:09:11.753][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+66:[13:09:21.771][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+67:[13:09:31.748][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+68:[13:09:41.754][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+69:[13:09:51.774][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+70:[13:10:01.755][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+72:[13:10:11.771][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+73:[13:10:21.778][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+74:[13:10:31.752][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+75:[13:10:41.767][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+76:[13:10:51.782][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+77:[13:11:01.758][I][main:138]: component=gateway event=send_blocked gate=closed temp_c=26.60
+78:[13:11:04.417][I][main:296]: component=gateway event=forwarding_gate_open action=forwarding_enabled
+79:[13:11:11.764][I][main:120]: component=gateway event=send_success temp_c=26.60
+80:[13:11:21.819][I][main:120]: component=gateway event=send_success temp_c=26.60
+81:[13:11:31.763][I][main:120]: component=gateway event=send_success temp_c=26.60
+82:[13:11:41.768][I][main:120]: component=gateway event=send_success temp_c=26.60
+84:[13:11:51.803][I][main:120]: component=gateway event=send_success temp_c=26.62
+85:[13:12:01.764][I][main:120]: component=gateway event=send_success temp_c=26.62
+86:[13:12:11.771][I][main:120]: component=gateway event=send_success temp_c=26.62
+87:[13:12:21.803][I][main:120]: component=gateway event=send_success temp_c=26.62
+88:[13:12:31.772][I][main:120]: component=gateway event=send_success temp_c=26.62
+89:[13:12:41.792][I][main:120]: component=gateway event=send_success temp_c=26.62
+90:[13:12:51.810][I][main:120]: component=gateway event=send_success temp_c=26.62
+91:[13:13:01.773][I][main:120]: component=gateway event=send_success temp_c=26.62
+94:[13:13:11.780][I][main:120]: component=gateway event=send_success temp_c=26.62
+95:[13:13:21.813][I][main:120]: component=gateway event=send_success temp_c=26.62
+96:[13:13:31.778][I][main:120]: component=gateway event=send_success temp_c=26.62
+97:[13:13:41.778][I][main:120]: component=gateway event=send_success temp_c=26.62
+98:[13:13:51.818][I][main:120]: component=gateway event=send_success temp_c=26.62
+99:[13:14:01.776][I][main:120]: component=gateway event=send_success temp_c=26.62
+101:[13:14:11.786][I][main:120]: component=gateway event=send_success temp_c=26.63
+102:[13:14:21.817][I][main:120]: component=gateway event=send_success temp_c=26.63

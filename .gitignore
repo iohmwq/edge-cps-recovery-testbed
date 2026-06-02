@@ -1,0 +1,30 @@
+# Private credentials and local configuration
+.private/
+.env
+.env.*
+*.env
+*.secret
+*token*
+*secret*
+
+# ESPHome / Home Assistant local config
+*.yaml
+*.yml
+
+# Raw logs, state dumps, and local environment captures
+*.log
+*.jsonl
+runs/**/logs/
+runs/**/metadata/
+runs/aborted_cps_aligned_pilot/
+
+# Backups and generated reports
+*.bak
+*backup*
+public_release_*_report.txt
+public_release_*_check*.txt
+
+# OS / Python noise
+.DS_Store
+__pycache__/
+*.pyc

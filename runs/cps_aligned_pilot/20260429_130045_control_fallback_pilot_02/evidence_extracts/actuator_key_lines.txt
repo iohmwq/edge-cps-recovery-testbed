@@ -1,0 +1,36 @@
+9:[13:01:11.675][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.57 packet_count=798
+10:[13:01:27.083][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.58 packet_count=799
+11:[13:01:32.186][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.58 packet_count=800
+12:[13:01:42.796][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.58 packet_count=801
+13:[13:01:51.735][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.59 packet_count=802
+14:[13:02:39.561][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.59 packet_count=803
+15:[13:02:39.561][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.59 packet_count=804
+16:[13:02:39.561][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.59 packet_count=805
+17:[13:02:39.565][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.59 packet_count=806
+18:[13:03:02.634][W][actuator:466]: component=actuator event=pilot_state_transition old_state=1 new_state=signal_only_fallback_active age_ms=30959 action=no_relay_action
+19:[13:03:02.647][I][actuator:545]: component=actuator event=state_transition mode=signal_only_fallback_active led=yellow
+20:[13:10:53.165][W][actuator:468]: component=actuator event=pilot_state_transition old_state=2 new_state=virtual_control_fallback_active age_ms=501500 virtual_control_enabled=false relay_action=none
+21:[13:10:53.168][I][actuator:551]: component=actuator event=state_transition mode=virtual_control_fallback_or_lock led=red
+22:[13:11:11.764][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.60 packet_count=807
+23:[13:11:13.185][I][actuator:458]: component=actuator event=pilot_recovery_detected old_state=3 new_state=1 age_ms=1420 recovery_count=3
+24:[13:11:13.197][I][actuator:464]: component=actuator event=pilot_state_transition old_state=3 new_state=signal_normal age_ms=1420
+25:[13:11:13.198][I][actuator:539]: component=actuator event=state_transition mode=signal_normal led=green
+26:[13:11:21.799][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.60 packet_count=808
+27:[13:11:31.759][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.60 packet_count=809
+28:[13:11:41.769][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.60 packet_count=810
+29:[13:11:51.803][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.62 packet_count=811
+30:[13:12:01.762][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.62 packet_count=812
+31:[13:12:11.771][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.62 packet_count=813
+32:[13:12:21.799][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.62 packet_count=814
+33:[13:12:31.775][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.62 packet_count=815
+34:[13:12:41.776][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.62 packet_count=816
+35:[13:12:51.802][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.62 packet_count=817
+36:[13:13:01.770][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.62 packet_count=818
+37:[13:13:11.770][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.62 packet_count=819
+38:[13:13:21.806][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.62 packet_count=820
+39:[13:13:31.773][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.62 packet_count=821
+40:[13:13:41.774][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.62 packet_count=822
+41:[13:13:51.809][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.62 packet_count=823
+42:[13:14:01.774][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.62 packet_count=824
+43:[13:14:11.777][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.63 packet_count=825
+44:[13:14:21.813][I][actuator:073]: component=actuator event=packet_received remote_temp_c=26.63 packet_count=826

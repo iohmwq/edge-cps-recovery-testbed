@@ -1,0 +1,28 @@
+run_id=20260429_130045_control_fallback_pilot_02
+run_role=control fallback pilot
+external_positioning=A CPS-aligned pilot showing fallback/recovery observation under a controlled forwarding interruption.
+accepted_for=initial_discussion_minimum_pilot_evidence_package
+generated_at_utc=20260429T133813Z
+
+host_flow_checks:
+baseline_start=OK
+baseline_end=OK
+cutoff_start=OK
+cutoff_end=OK
+recovery_start=OK
+recovery_end=OK
+forwarding_gate_off_applied=OK
+forwarding_gate_on_applied=OK
+run_archive_completed=OK
+script_exit_success=OK
+
+evidence_extracts:
+host_events_key_lines=evidence_extracts/host_events_key_lines.txt
+gateway_key_lines=evidence_extracts/gateway_key_lines.txt
+actuator_key_lines=evidence_extracts/actuator_key_lines.txt
+
+boundary:
+- This run is used as minimum CPS-aligned pilot evidence for initial discussion preparation.
+- This run does not claim physical relay actuation unless the actuator log and YAML explicitly show relay control.
+- This run does not claim long-term stability.
+- This run does not claim comparison against alternative recovery strategies.

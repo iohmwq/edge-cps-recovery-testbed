@@ -1,0 +1,30 @@
+1:ts=2026-04-29T10:14:54+00:00 component=host action=run_prepare result=started note=run_root=${WORKING_REPO}/runs/cps_aligned_pilot/20260429_101454_minimum_gate_pilot_01
+2:ts=2026-04-29T10:14:54+00:00 component=host action=ha_api_check result=started note=url=<local Home Assistant endpoint>
+3:ts=2026-04-29T10:14:54+00:00 component=host action=ha_api_check result=completed note=url=<local Home Assistant endpoint>
+4:ts=2026-04-29T10:14:54+00:00 component=host action=pi_ssh_check result=started note=target=<local Pi SSH target>
+5:ts=2026-04-29T10:14:55+00:00 component=host action=pi_ssh_check result=completed note=target=<local Pi SSH target>
+6:ts=2026-04-29T10:14:55+00:00 component=host action=capture_time_sources_start result=started note=time_source_snapshot_start
+7:ts=2026-04-29T10:14:55+00:00 component=host action=capture_time_sources_start result=completed note=time_source_snapshot_start
+8:ts=2026-04-29T10:14:56+00:00 component=host action=copy_pi_ha_log_before result=started note=method=scp path=private_home_assistant_log
+9:ts=2026-04-29T10:15:14+00:00 component=host action=copy_pi_ha_log_before result=completed note=method=scp path=private_home_assistant_log
+10:ts=2026-04-29T10:15:14+00:00 component=host action=start_ping_pi result=started note=target=<local Pi host>
+11:ts=2026-04-29T10:15:14+00:00 component=host action=start_gateway_esphome_log result=started note=method=docker_exec container=esphome yaml=/config/tortoise-gateway.yaml
+12:ts=2026-04-29T10:15:14+00:00 component=host action=start_actuator_esphome_log result=started note=method=docker_exec container=esphome yaml=/config/tortoise-actuator-s3.yaml
+13:ts=2026-04-29T10:15:14+00:00 component=host action=set_forwarding_gate_on result=requesting note=entity_id=<forwarding gate entity>
+14:ts=2026-04-29T10:15:16+00:00 component=host action=set_forwarding_gate_on result=applied note=entity_id=<forwarding gate entity>
+15:ts=2026-04-29T10:15:16+00:00 component=host action=phase_baseline_start result=started note=duration_sec=60
+16:ts=2026-04-29T10:16:17+00:00 component=host action=phase_baseline_end result=completed note=duration_sec=60
+17:ts=2026-04-29T10:16:17+00:00 component=host action=set_forwarding_gate_off result=requesting note=entity_id=<forwarding gate entity>
+18:ts=2026-04-29T10:16:19+00:00 component=host action=set_forwarding_gate_off result=applied note=entity_id=<forwarding gate entity>
+20:ts=2026-04-29T10:16:19+00:00 component=host action=phase_cutoff_start result=started note=duration_sec=90
+21:ts=2026-04-29T10:17:51+00:00 component=host action=phase_cutoff_end result=completed note=duration_sec=90
+22:ts=2026-04-29T10:17:51+00:00 component=host action=set_forwarding_gate_on result=requesting note=entity_id=<forwarding gate entity>
+23:ts=2026-04-29T10:17:53+00:00 component=host action=set_forwarding_gate_on result=applied note=entity_id=<forwarding gate entity>
+25:ts=2026-04-29T10:17:53+00:00 component=host action=phase_recovery_start result=started note=duration_sec=90
+26:ts=2026-04-29T10:19:25+00:00 component=host action=phase_recovery_end result=completed note=duration_sec=90
+27:ts=2026-04-29T10:19:25+00:00 component=host action=capture_time_sources_end result=started note=time_source_snapshot_end
+28:ts=2026-04-29T10:19:25+00:00 component=host action=capture_time_sources_end result=completed note=time_source_snapshot_end
+29:ts=2026-04-29T10:19:25+00:00 component=host action=copy_pi_ha_log_after result=started note=method=scp path=private_home_assistant_log
+30:ts=2026-04-29T10:19:44+00:00 component=host action=copy_pi_ha_log_after result=completed note=method=scp path=private_home_assistant_log
+32:ts=2026-04-29T10:19:44+00:00 component=host action=run_archive result=completed note=run_root=${WORKING_REPO}/runs/cps_aligned_pilot/20260429_101454_minimum_gate_pilot_01
+33:ts=2026-04-29T10:19:44+00:00 component=host action=script_exit result=success note=run_root=${WORKING_REPO}/runs/cps_aligned_pilot/20260429_101454_minimum_gate_pilot_01
